@@ -1,5 +1,5 @@
 import React from 'react'
-import animationData from './data-step1.json'
+import animationData from './data.json'
 import lottie from 'lottie-web'
 
 class IndexPage extends React.Component {
